@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alvaro/projects/AndroidStudioProjects/signature/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/alvaro/projects/AndroidStudioProjects/savesignature/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b681376d081a653ed2ad704ce51aa29a/res/values/values.xml",
+                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/05acf528aae95dba10cef7a041d0e7b4/res/values/values.xml",
                     "from": {
                         "startLines": "2,66",
                         "startColumns": "4,4",
@@ -23,43 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "118",
-                        "startColumns": "4",
-                        "startOffsets": "5859",
-                        "endLines": "122",
-                        "endColumns": "12",
-                        "endOffsets": "6151"
-                    }
-                },
-                {
-                    "source": "/home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/res/values/ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "116",
-                        "endColumns": "56",
-                        "endOffsets": "168"
-                    }
-                },
-                {
-                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fa30fc5e7de8e5116de8c6dd445a261/res/values/values.xml",
+                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3151661488e0384ac935a4eb6b3e1ae/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -78,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/8ab89de8c07fd09b74d3c844c8041b29/res/values/values.xml",
+                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bf808b8d8597dc67b858b92d4fe5f8a/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -92,6 +56,42 @@
                         "startOffsets": "305,394,523,5658,6474,6650,6772,7034,7229",
                         "endColumns": "88,70,72,59,65,121,60,65,66",
                         "endOffsets": "389,460,591,5713,6535,6767,6828,7095,7291"
+                    }
+                },
+                {
+                    "source": "/home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "118",
+                        "startColumns": "4",
+                        "startOffsets": "5859",
+                        "endLines": "122",
+                        "endColumns": "12",
+                        "endOffsets": "6151"
+                    }
+                },
+                {
+                    "source": "/home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endColumns": "56",
+                        "endOffsets": "168"
                     }
                 }
             ]

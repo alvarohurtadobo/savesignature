@@ -1,107 +1,107 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
 MERGED from [com.android.support:multidex:1.0.2] /home/alvaro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/97ec76e3fe9c2d9ac2c3a4f1fb7adf07/AndroidManifest.xml:17:1-22:12
-MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/signature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/signature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:support-v4:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/d88e6400307d4b387248dbcb4bbc6b75/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/8ab89de8c07fd09b74d3c844c8041b29/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ad7a810b0985ce517b653edc897435ff/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b681376d081a653ed2ad704ce51aa29a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3d14984e72f85293423d2579104acf9c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fa30fc5e7de8e5116de8c6dd445a261/AndroidManifest.xml:17:1-22:12
+MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/47e95ac99130482ccfa92a4f0b196f61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bf808b8d8597dc67b858b92d4fe5f8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/935284330586b8c4da07cbe7d7e0f7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/05acf528aae95dba10cef7a041d0e7b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c527e488996ad0d63822a8ccd0bbef51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3151661488e0384ac935a4eb6b3e1ae/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/879ffc046e542e7b719e1861bcedab31/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dec305d090225b5e2ce2f9f04055b573/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/48feddece221ae4267ae694a132e29a7/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c3f371765678fdafc945174e30cc0627/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
 	package
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:2:5-36
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:1-40:12
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:9:5-80
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:9:22-78
 application
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:16:5-39:19
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:16:5-39:19
 	android:label
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:18:9-34
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:18:9-34
 	android:icon
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:19:9-43
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:17:9-57
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:17:9-57
 activity#com.vemarav.signature.MainActivity
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:20:9-38:20
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:20:9-38:20
 	android:launchMode
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:22:13-43
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:22:13-43
 	android:hardwareAccelerated
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:25:13-47
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:25:13-47
 	android:windowSoftInputMode
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:26:13-55
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:26:13-55
 	android:configChanges
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:24:13-137
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:24:13-137
 	android:theme
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:23:13-47
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:23:13-47
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:21:13-41
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:21:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:31:13-33:40
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:31:13-33:40
 	android:value
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:33:17-37
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:33:17-37
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:32:17-82
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:32:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:34:13-37:29
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:35:17-68
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:35:17-68
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:35:25-66
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:36:17-76
+ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml:36:27-74
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml:36:27-74
 uses-sdk
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:multidex:1.0.2] /home/alvaro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/97ec76e3fe9c2d9ac2c3a4f1fb7adf07/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /home/alvaro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/97ec76e3fe9c2d9ac2c3a4f1fb7adf07/AndroidManifest.xml:20:5-43
-MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/signature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
-MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/signature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/signature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/signature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-v4:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/d88e6400307d4b387248dbcb4bbc6b75/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/d88e6400307d4b387248dbcb4bbc6b75/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/8ab89de8c07fd09b74d3c844c8041b29/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/8ab89de8c07fd09b74d3c844c8041b29/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ad7a810b0985ce517b653edc897435ff/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/ad7a810b0985ce517b653edc897435ff/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b681376d081a653ed2ad704ce51aa29a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b681376d081a653ed2ad704ce51aa29a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3d14984e72f85293423d2579104acf9c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3d14984e72f85293423d2579104acf9c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fa30fc5e7de8e5116de8c6dd445a261/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fa30fc5e7de8e5116de8c6dd445a261/AndroidManifest.xml:20:5-44
+MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:simple_permissions] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/simple_permissions/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/alvaro/projects/AndroidStudioProjects/savesignature/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/47e95ac99130482ccfa92a4f0b196f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/47e95ac99130482ccfa92a4f0b196f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bf808b8d8597dc67b858b92d4fe5f8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bf808b8d8597dc67b858b92d4fe5f8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/935284330586b8c4da07cbe7d7e0f7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/935284330586b8c4da07cbe7d7e0f7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/05acf528aae95dba10cef7a041d0e7b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/05acf528aae95dba10cef7a041d0e7b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c527e488996ad0d63822a8ccd0bbef51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c527e488996ad0d63822a8ccd0bbef51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3151661488e0384ac935a4eb6b3e1ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3151661488e0384ac935a4eb6b3e1ae/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/879ffc046e542e7b719e1861bcedab31/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/879ffc046e542e7b719e1861bcedab31/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dec305d090225b5e2ce2f9f04055b573/AndroidManifest.xml:20:5-44
@@ -110,13 +110,13 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alvaro/.gradle/caches
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/48feddece221ae4267ae694a132e29a7/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c3f371765678fdafc945174e30cc0627/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /home/alvaro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c3f371765678fdafc945174e30cc0627/AndroidManifest.xml:20:5-44
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/alvaro/projects/AndroidStudioProjects/signature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alvaro/projects/AndroidStudioProjects/savesignature/android/app/src/main/AndroidManifest.xml

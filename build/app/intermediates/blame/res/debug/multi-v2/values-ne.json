@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alvaro/projects/AndroidStudioProjects/signature/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/home/alvaro/projects/AndroidStudioProjects/savesignature/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
-                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fa30fc5e7de8e5116de8c6dd445a261/res/values-ne/values-ne.xml",
+                    "source": "/home/alvaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3151661488e0384ac935a4eb6b3e1ae/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
