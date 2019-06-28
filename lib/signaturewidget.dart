@@ -128,7 +128,7 @@ class SignAppState extends State<SignWidget> {
   }
 
   requestPermission() async {
-    bool result = await SimplePermissions.requestPermission(_permission);
+    var result = await SimplePermissions.requestPermission(_permission);
     return result;
   }
 

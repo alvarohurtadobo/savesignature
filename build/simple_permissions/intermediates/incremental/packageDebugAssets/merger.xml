@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/alvaro/programs/flutter/.pub-cache/hosted/pub.dartlang.org/simple_permissions-0.1.9/android/src/main/assets"/><source path="/home/alvaro/projects/AndroidStudioProjects/signature/build/simple_permissions/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/alvaro/programs/flutter/.pub-cache/hosted/pub.dartlang.org/simple_permissions-0.1.9/android/src/debug/assets"/></dataSet></merger>
